@@ -6,16 +6,15 @@ Images
 
 1. Mobile UI
 
-![](screenshots/swiggy1.jpg)|![](screenshots/swiggy2.jpg)|![](screenshots/swiggy3.jpg)|![](screenshots/swiggy4.jpg)|
+![](screenshots/swiggy1.jpg)|![](screenshots/swiggy2.jpg)![](screenshots/swiggy4.jpg)|
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/swiggy5.jpg)|![](screenshots/swiggy6.jpg)|![](screenshots/swiggy7.jpg)|![](screenshots/swiggy8.jpg)|
+![](screenshots/swiggy5.jpg)|![](screenshots/swiggy6.jpg)
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/genie.jpg)|![](screenshots/grocery.jpg)|![](screenshots/meat.jpg)|![](screenshots/indian-food.jpg)|
+![](screenshots/grocery.jpg)|![](screenshots/meat.jpg)|![](screenshots/indian-food.jpg)|
 
 2.Restaurant View                  
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/all-restaurant1.jpg)|![](screenshots/all-restaurant2.jpg)|![](screenshots/all-restaurant3.jpg)|![](screenshots/all-restaurant4.jpg)|
-
+![](screenshots/all-restaurant1.jpg)|![](screenshots/all-restaurant2.jpg)
 3. Offer View                       
 :-------------------------:|:-------------------------:
 ![](screenshots/offers1.jpg)|![](screenshots/offers2.jpg)|
